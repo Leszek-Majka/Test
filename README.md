@@ -1,4 +1,4 @@
 # Test
 Test na szkolenie
 
-Zmiana
+Zmiana w gałęzi
